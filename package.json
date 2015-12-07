@@ -1,0 +1,38 @@
+{
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "description": "Examples from Learning Typescript",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnerjohn/learning-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnerjohn/learning-typescript/issues"
+  },
+  "homepage": "https://github.com/arnerjohn/learning-typescript#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-karma": "0.0.5",
+    "gulp-tslint": "^4.1.1",
+    "gulp-typescript": "^2.10.0",
+    "karma": "^0.13.15",
+    "karma-chai": "^0.1.0",
+    "karma-coverage": "^0.5.3",
+    "karma-mocha": "^0.2.1",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "karma-sinon": "^1.0.4",
+    "mocha": "^2.3.4",
+    "run-sequence": "^1.1.5",
+    "sinon": "^1.17.2"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
